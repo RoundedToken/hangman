@@ -1,0 +1,36 @@
+.attempts {
+    display: flex;
+    gap: 15px;
+}
+
+.attempts__count {
+    color: red;
+}
+
+.attempts__count_animation {
+    animation: shake 500ms ease-in-out;
+}
+
+@keyframes shake {
+    25% {
+        transform: rotate(15deg);
+    }
+    50% {
+        transform: rotate(-30deg);
+    }
+    75% {
+        transform: rotate(30deg);
+    }
+}
+
+@media (min-width: 768px) {
+    .attempts {
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 1440px) {
+    .attempts {
+        font-size: 30px;
+    }
+}

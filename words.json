@@ -1,0 +1,156 @@
+[
+    { "word": "computer", "hint": "An electronic device for processing data" },
+    { "word": "giraffe", "hint": "A tall African mammal with a long neck and spotted coat" },
+    { "word": "umbrella", "hint": "A portable device used to protect against rain or sunlight" },
+    { "word": "bicycle", "hint": "A two-wheeled vehicle powered by pedals" },
+    { "word": "elephant", "hint": "A large mammal with tusks and a trunk" },
+    { "word": "jungle", "hint": "A dense tropical forest" },
+    {
+        "word": "airplane",
+        "hint": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces"
+    },
+    {
+        "word": "library",
+        "hint": "A place where books and other materials are available for reading or borrowing"
+    },
+    { "word": "chocolate", "hint": "A sweet food made from roasted and ground cacao seeds" },
+    {
+        "word": "ocean",
+        "hint": "A large body of saltwater that covers most of the Earth's surface"
+    },
+    {
+        "word": "television",
+        "hint": "An electronic device for receiving and displaying broadcast signals"
+    },
+    {
+        "word": "mountain",
+        "hint": "A large landform that rises prominently above its surroundings"
+    },
+    {
+        "word": "keyboard",
+        "hint": "An input device with keys for typing characters into a computer or typewriter"
+    },
+    { "word": "zebra", "hint": "An African mammal with black and white stripes" },
+    {
+        "word": "backpack",
+        "hint": "A bag carried on the back, often used for carrying personal belongings"
+    },
+    { "word": "astronaut", "hint": "A person trained for traveling and working in outer space" },
+    { "word": "waterfall", "hint": "A cascade of water falling from a height" },
+    { "word": "sunflower", "hint": "A tall plant with a large, yellow, disk-shaped flower" },
+    { "word": "volcano", "hint": "A mountain that erupts with lava, ash, and gases" },
+    {
+        "word": "tornado",
+        "hint": "A rapidly rotating column of air extending from a thunderstorm to the ground"
+    },
+    { "word": "butterfly", "hint": "An insect with two large, often colorful wings" },
+    { "word": "guitar", "hint": "A stringed musical instrument with a wooden body and a neck" },
+    { "word": "penguin", "hint": "A flightless bird that lives in the Southern Hemisphere" },
+    {
+        "word": "fireworks",
+        "hint": "Explosive devices producing colored lights and noise for celebration"
+    },
+    { "word": "cactus", "hint": "A succulent plant with thick, fleshy stems and spines" },
+    {
+        "word": "helicopter",
+        "hint": "A type of aircraft with rotating blades for vertical takeoff and landing"
+    },
+    { "word": "island", "hint": "A landmass surrounded by water and smaller than a continent" },
+    {
+        "word": "parachute",
+        "hint": "A device used to slow the descent of a person or object through the air"
+    },
+    {
+        "word": "rainbow",
+        "hint": "A meteorological phenomenon characterized by a spectrum of light appearing in the sky"
+    },
+    { "word": "accordion", "hint": "A musical instrument with keys, buttons, and bellows" },
+    {
+        "word": "pineapple",
+        "hint": "A tropical fruit with a tough, spiky rind and sweet, juicy yellow flesh"
+    },
+    {
+        "word": "kangaroo",
+        "hint": "A marsupial native to Australia with a powerful tail and hind legs"
+    },
+    {
+        "word": "tiger",
+        "hint": "A large, carnivorous feline with distinctive orange fur and black stripes"
+    },
+    { "word": "umbrella", "hint": "A device used to shield against rain or sunlight" },
+    {
+        "word": "dolphin",
+        "hint": "A marine mammal known for its intelligence and playful behavior"
+    },
+    {
+        "word": "suitcase",
+        "hint": "A portable case designed for carrying clothes and personal items during travel"
+    },
+    {
+        "word": "dragonfly",
+        "hint": "An insect with large multifaceted eyes and two pairs of strong, transparent wings"
+    },
+    { "word": "landscape", "hint": "A view or expanse of scenery" },
+    {
+        "word": "ballet",
+        "hint": "A highly stylized form of dance with its own vocabulary and technique"
+    },
+    { "word": "mosquito", "hint": "A small flying insect known for biting and spreading diseases" },
+    { "word": "guitarist", "hint": "A person who plays the guitar" },
+    { "word": "whale", "hint": "A large marine mammal with a streamlined body and a blowhole" },
+    {
+        "word": "robot",
+        "hint": "A machine capable of carrying out tasks autonomously or with remote control"
+    },
+    { "word": "breeze", "hint": "A gentle and light wind" },
+    {
+        "word": "chameleon",
+        "hint": "A lizard capable of changing color to blend with its surroundings"
+    },
+    { "word": "carousel", "hint": "A rotating machine with seats for amusement park rides" },
+    {
+        "word": "chocolate",
+        "hint": "A sweet, brown food product made from roasted and ground cacao seeds"
+    },
+    {
+        "word": "watermelon",
+        "hint": "A juicy and refreshing fruit with green rind and pink or red flesh"
+    },
+    { "word": "puzzle", "hint": "A game or toy designed to test ingenuity or knowledge" },
+    { "word": "whistle", "hint": "A small device that produces a sound when blown into" },
+    { "word": "cucumber", "hint": "A long, green vegetable often used in salads" },
+    { "word": "whisker", "hint": "Long, stiff hairs on the face of some animals" },
+    { "word": "harmony", "hint": "A pleasing arrangement of parts or elements" },
+    { "word": "lighthouse", "hint": "A tall tower with a light at the top to guide ships" },
+    { "word": "obsidian", "hint": "A hard, dark, glass-like volcanic rock" },
+    { "word": "paradox", "hint": "A statement that seems contradictory but may be true" },
+    { "word": "avalanche", "hint": "A sudden and powerful descent of snow down a mountain" },
+    {
+        "word": "xylophone",
+        "hint": "A musical instrument with wooden bars that are struck with mallets"
+    },
+    { "word": "alabaster", "hint": "A fine-grained, translucent form of gypsum used for carving" },
+    { "word": "quicksilver", "hint": "Another name for the element mercury" },
+    { "word": "gondola", "hint": "A narrow boat used on the canals of Venice" },
+    {
+        "word": "silhouette",
+        "hint": "The outline or general shape of something, especially a profile portrait"
+    },
+    { "word": "marathon", "hint": "A long-distance running race of 26.2 miles" },
+    {
+        "word": "symphony",
+        "hint": "A long musical composition for a full orchestra, typically in four movements"
+    },
+    { "word": "alchemy", "hint": "An ancient philosophical and protoscientific tradition" },
+    { "word": "umbilical", "hint": "Relating to or resembling the umbilicus (navel)" },
+    { "word": "rhapsody", "hint": "A highly emotional piece of music or literature" },
+    {
+        "word": "nightingale",
+        "hint": "A small, plain, brown bird known for its rich, melodious song"
+    },
+    { "word": "bungalow", "hint": "A low house with a broad front porch" },
+    {
+        "word": "quasar",
+        "hint": "A distant astronomical object emitting exceptionally large amounts of energy"
+    }
+]

@@ -1,0 +1,63 @@
+#hangman {
+    background-color: antiquewhite;
+}
+#skyBlue {
+    visibility: hidden;
+}
+
+#happy {
+    visibility: hidden;
+    animation: yippee 0.5s infinite;
+    animation-direction: alternate;
+}
+
+#grayyyy {
+    fill: antiquewhite;
+}
+
+#base5,
+#base6,
+#base7,
+#base8,
+#base9,
+#base10 {
+    visibility: hidden;
+    opacity: 0;
+    transform: scale(0);
+    transition: all 500ms ease-in-out;
+}
+
+.visible {
+    visibility: visible !important;
+    opacity: 1 !important;
+    transform: scale(1) !important;
+}
+
+.game-lost {
+    animation: shimmy 1s infinite;
+    animation-direction: alternate;
+}
+
+@keyframes shimmy {
+    0% {
+        transform: translate(0, 0);
+    }
+    100% {
+        transform: translate(0px, 17px); /*first value is x, second is y*/
+    }
+}
+
+@keyframes yippee {
+    0% {
+        transform: translate(0, 0);
+    }
+    100% {
+        transform: translate(0px, -28px); /*first value is x, second is y*/
+    }
+}
+
+@media (min-width: 1440px) {
+    #svg-elem {
+        transform: scale(1.4);
+    }
+}
